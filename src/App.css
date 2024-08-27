@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: chartreuse;
+  display: inline-block;
+}
+form label{
+  display: inline-block;
+  width:100px;
+}
